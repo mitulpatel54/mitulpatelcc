@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Mitul, an <a href="(https://www.linkedin.com/in/mitul-patel-132a0a314/)">IT Professional</a></h1>
+<h1>Hi, I'm Mitul, an <a href="(https://www.linkedin.com/in/mitul-patel-132a0a314/)">IT Enthusiast</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
