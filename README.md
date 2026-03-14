@@ -15,8 +15,6 @@
 
 [<img align="left" alt="Mitul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mitul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mitul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/mitul1012
-[instagram]: https://www.instagram.com/mitulpatel54
 [linkedin]: https://linkedin.com/in/mitul-patel-132a0a314
