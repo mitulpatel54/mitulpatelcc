@@ -8,7 +8,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mitulpatel54/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mitulpatel54/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/mitulpatel54/configure-ad)
+  - [Preparing Infrastructure for Active Directory in Azure](https://github.com/mitulpatel54/Infrastructure-for-ActiveDirectory-Azure)
+  - [Deploying Active Directory in Azure](https://github.com/mitulpatel54/Deploying-Active-Directory-in-Azure)
+  - [Creating Users, Managing Group Policy, and Accounts](https://github.com/mitulpatel54/Creating-Users-Managing-Group-Policy-and-Accounts)
+
 
 
 <h2>🤳Connect with me:</h2>
