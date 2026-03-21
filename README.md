@@ -11,6 +11,7 @@
   - [Preparing Infrastructure for Active Directory in Azure](https://github.com/mitulpatel54/Infrastructure-for-ActiveDirectory-Azure)
   - [Deploying Active Directory in Azure](https://github.com/mitulpatel54/Deploying-Active-Directory-in-Azure)
   - [Creating Users, Managing Group Policy, and Accounts](https://github.com/mitulpatel54/Creating-Users-Managing-Group-Policy-and-Accounts)
+  - [Understanding DNS using Active Directory](https://github.com/mitulpatel54/Understanding-DNS-Active-Directory)
 
 
 
